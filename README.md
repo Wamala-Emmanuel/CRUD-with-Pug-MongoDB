@@ -4,10 +4,10 @@ It uses passportJs and express sessions for authentication, and mongoose to mani
 Front-end input validation is typed in VanillaJs.
 
 ## Funtionality
-Alerts user with a success message when a record is saved to the database successfully.
-Creates, Reads, Updates and Deletes records from the database.
+- Alerts user with a success message when a record is saved to the database successfully.
+- Creates, Reads, Updates and Deletes records from the database.
 
 ## Dependencies
-    *"express": "^4.17.1",
+    "express": "^4.17.1",
     "mongoose": "^5.9.14",
     "pug": "^2.0.4"
