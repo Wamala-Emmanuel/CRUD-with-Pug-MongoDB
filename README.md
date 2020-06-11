@@ -8,6 +8,6 @@ Alerts user with a success message when a record is saved to the database succes
 Creates, Reads, Updates and Deletes records from the database.
 
 ## Dependencies
-    ** "express": "^4.17.1",
+    *"express": "^4.17.1",
     "mongoose": "^5.9.14",
     "pug": "^2.0.4"
