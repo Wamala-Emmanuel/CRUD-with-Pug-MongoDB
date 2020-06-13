@@ -13,4 +13,4 @@ Front-end input validation is typed in VanillaJs.
     "pug": "^2.0.4"
 
 ### Author
-- [Wamala Emmanuel Kisakye](google.com)
+- [Wamala Emmanuel Kisakye]()
