@@ -4,8 +4,7 @@ It uses passportJs and express sessions for authentication, and mongoose to mani
 Front-end input validation is typed in VanillaJs.
 ___
 ## Available Scripts
-In the project directory, open then terminal and type:
-`<npm start>`
+In the project directory, open the terminal and type:`<npm start>` <br>
 This will runs the app in development mode.
 Open http://localhost:4000 to view it in a browser.
 
