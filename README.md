@@ -3,13 +3,11 @@ A basic CRUD web application with MongoDB, ExpressJs, Pug &amp; NodeJs.
 It uses passportJs and express sessions for authentication, and mongoose to manipulate the database.
 Front-end input validation is typed in VanillaJs.
 ___
-## Available Scripts
-In the project directory, open the terminal and type:`<npm start>` <br>
-This will runs the app in development mode.
-Open http://localhost:4000 to view it in a browser.
-
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+## Instructions
+- Initialize a node project: **`npm init`**.
+- Add **`"start": "nodemon app.js"`** within scripts in the package.json file.
+- In the project directory, open the terminal and type: **`npm start`**. This runs the application in development mode.
+- Open the browser and type `http://localhost:4000` to view the application.
 ___
 ## Funtionality
 - Alerts a user with a success message when a record is added or deleted from the database successfully.
