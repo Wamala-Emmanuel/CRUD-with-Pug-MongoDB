@@ -1,6 +1,6 @@
 # CRUD-with-Pug-MongoDB
-A basic CRUD web application with MongoDB, ExpressJs, Pug &amp; NodeJs.
-It uses passportJs and express sessions for authentication, and mongoose to manipulate the database.
+A basic CRUD web application with MongoDB, ExpressJs, Pug &amp; NodeJs. <br>
+It uses passportJs and express sessions for authentication, and mongoose to manipulate the database.<br>
 Front-end input validation is typed in VanillaJs.
 ___
 ## Instructions
@@ -13,8 +13,8 @@ ___
 - Creates, Reads, Updates and Deletes records from the database.
 ___
 ## Dependencies
-    "express": "^4.17.1",
-    "mongoose": "^5.9.14",
+    "express": "^4.17.1"
+    "mongoose": "^5.9.14"
     "pug": "^2.0.4"
     "eslint": "^6.7.2"
 ___
