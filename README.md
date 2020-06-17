@@ -4,9 +4,8 @@ It uses passportJs and express sessions for authentication, and mongoose to mani
 Front-end input validation is typed in VanillaJs.
 ___
 ## Instructions
-- Initialize a node project: **`npm init`**.
-- Add **`"start": "nodemon app.js"`** within scripts in the package.json file.
-- In the project directory, open the terminal and type: **`npm start`**. This runs the application in development mode.
+- Initialize a node project: **`npm init`**
+- In the project directory, open the terminal and type: **`node app.js`**. This runs the application in development mode.
 - Open the browser and type `http://localhost:4000` to view the application.
 ___
 ## Funtionality
